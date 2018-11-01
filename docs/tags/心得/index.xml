@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得 on Joseph Mind Clips</title>
+    <link>https://josephmax.github.io/blog/tags/%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 心得 on Joseph Mind Clips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jun 2016 17:15:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://josephmax.github.io/blog/tags/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>my first post</title>
+      <link>https://josephmax.github.io/blog/posts/my-first-post/</link>
+      <pubDate>Tue, 28 Jun 2016 17:15:43 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/posts/my-first-post/</guid>
+      <description>我的第一篇博客 第一篇用markdown语法码出来的博客 什么是 Markdown Markdown 是一种方便记忆、书写的纯文本标记语言，用户可以使用这些标记符号以最小的输入代</description>
+    </item>
+    
+  </channel>
+</rss>

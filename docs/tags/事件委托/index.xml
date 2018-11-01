@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>事件委托 on Joseph Mind Clips</title>
+    <link>https://josephmax.github.io/blog/tags/%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98/</link>
+    <description>Recent content in 事件委托 on Joseph Mind Clips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 06 Jul 2016 11:39:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://josephmax.github.io/blog/tags/%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>7月5日面试笔记</title>
+      <link>https://josephmax.github.io/blog/posts/7%E6%9C%885%E6%97%A5%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 06 Jul 2016 11:39:41 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/posts/7%E6%9C%885%E6%97%A5%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0/</guid>
+      <description>Joe按：共事还是极其讲究气场相合，祝自己好运。 1. null==undefined 比较运算 x==y, 其中 x 和 y 是值，产生 true 或者 false。这样的比较按如下方式进行： 若 Type(x) 与 Type(y) 相同，</description>
+    </item>
+    
+  </channel>
+</rss>

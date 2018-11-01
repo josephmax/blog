@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/posts/hugo-guidance/</loc>
+    <lastmod>2017-08-26T18:48:30+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/archive/</loc>
+    <lastmod>2017-08-19T21:37:49+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/about/</loc>
+    <lastmod>2017-08-19T20:09:28+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/posts/7%E6%9C%885%E6%97%A5%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2016-07-06T11:39:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/posts/%E5%89%8D%E7%AB%AF%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
+    <lastmod>2016-06-30T00:19:48+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/posts/%E7%94%B1%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BB%B6%E4%BC%B8%E5%BC%80%E5%8E%BB%E7%9A%84%E5%92%80%E5%9A%BC%E7%89%A9/</loc>
+    <lastmod>2016-06-29T00:27:45+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/posts/my-first-post/</loc>
+    <lastmod>2016-06-28T17:15:43+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/ajax/</loc>
+    <lastmod>2016-06-30T00:19:48+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/blog-generator/</loc>
+    <lastmod>2017-08-26T18:48:30+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/demo/</loc>
+    <lastmod>2016-06-28T17:15:43+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/ecma/</loc>
+    <lastmod>2016-07-06T11:39:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/hugo/</loc>
+    <lastmod>2017-08-26T18:48:30+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/javascript/</loc>
+    <lastmod>2016-06-29T00:27:45+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/</loc>
+    <lastmod>2017-08-26T18:48:30+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/posts/</loc>
+    <lastmod>2017-08-26T18:48:30+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/</loc>
+    <lastmod>2016-06-30T00:19:48+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/categories/tool/</loc>
+    <lastmod>2017-08-26T18:48:30+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98/</loc>
+    <lastmod>2016-07-06T11:39:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/categories/%E5%B9%B2%E8%B4%A7/</loc>
+    <lastmod>2016-06-30T00:19:48+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2016-06-28T17:15:43+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/%E6%8E%89%E4%B9%A6%E8%A2%8B/</loc>
+    <lastmod>2016-06-29T00:27:45+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2016-07-06T11:39:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2016-06-29T00:27:45+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/categories/%E8%8C%B4%E5%AD%97%E7%9A%84%E5%9B%9B%E7%A7%8D%E5%86%99%E6%B3%95/</loc>
+    <lastmod>2016-06-29T00:27:45+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E4%BC%AA/</loc>
+    <lastmod>2016-06-29T00:27:45+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/%E8%B7%A8%E5%9F%9F/</loc>
+    <lastmod>2016-06-30T00:19:48+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/%E9%9A%8F%E6%83%B3/</loc>
+    <lastmod>2016-06-28T17:15:43+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josephmax.github.io/blog/tags/%E9%9D%A2%E8%AF%95/</loc>
+    <lastmod>2016-07-06T11:39:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

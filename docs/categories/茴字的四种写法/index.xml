@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>茴字的四种写法 on Joseph Mind Clips</title>
+    <link>https://josephmax.github.io/blog/categories/%E8%8C%B4%E5%AD%97%E7%9A%84%E5%9B%9B%E7%A7%8D%E5%86%99%E6%B3%95/</link>
+    <description>Recent content in 茴字的四种写法 on Joseph Mind Clips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 29 Jun 2016 00:27:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://josephmax.github.io/blog/categories/%E8%8C%B4%E5%AD%97%E7%9A%84%E5%9B%9B%E7%A7%8D%E5%86%99%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>由面试题延伸开去的咀嚼物</title>
+      <link>https://josephmax.github.io/blog/posts/%E7%94%B1%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BB%B6%E4%BC%B8%E5%BC%80%E5%8E%BB%E7%9A%84%E5%92%80%E5%9A%BC%E7%89%A9/</link>
+      <pubDate>Wed, 29 Jun 2016 00:27:45 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/posts/%E7%94%B1%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BB%B6%E4%BC%B8%E5%BC%80%E5%8E%BB%E7%9A%84%E5%92%80%E5%9A%BC%E7%89%A9/</guid>
+      <description>Joe按：其实是写来补一补作为一个前端渣的计算机基础的， 读了四个月的html，css，js，愈发觉得基础上的薄弱。 故夜深人静的时候研究了以下</description>
+    </item>
+    
+  </channel>
+</rss>

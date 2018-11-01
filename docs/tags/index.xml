@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Joseph Mind Clips</title>
+    <link>https://josephmax.github.io/blog/tags/</link>
+    <description>Recent content in Tags on Joseph Mind Clips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 30 Jun 2016 00:19:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://josephmax.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ajax</title>
+      <link>https://josephmax.github.io/blog/tags/ajax/</link>
+      <pubDate>Thu, 30 Jun 2016 00:19:48 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/ajax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog Generator</title>
+      <link>https://josephmax.github.io/blog/tags/blog-generator/</link>
+      <pubDate>Sat, 26 Aug 2017 18:48:30 +0800</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/blog-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://josephmax.github.io/blog/tags/demo/</link>
+      <pubDate>Tue, 28 Jun 2016 17:15:43 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecma</title>
+      <link>https://josephmax.github.io/blog/tags/ecma/</link>
+      <pubDate>Wed, 06 Jul 2016 11:39:41 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/ecma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://josephmax.github.io/blog/tags/hugo/</link>
+      <pubDate>Sat, 26 Aug 2017 18:48:30 +0800</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://josephmax.github.io/blog/tags/javascript/</link>
+      <pubDate>Wed, 29 Jun 2016 00:27:45 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>事件委托</title>
+      <link>https://josephmax.github.io/blog/tags/%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98/</link>
+      <pubDate>Wed, 06 Jul 2016 11:39:41 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>心得</title>
+      <link>https://josephmax.github.io/blog/tags/%E5%BF%83%E5%BE%97/</link>
+      <pubDate>Tue, 28 Jun 2016 17:15:43 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/%E5%BF%83%E5%BE%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>掉书袋</title>
+      <link>https://josephmax.github.io/blog/tags/%E6%8E%89%E4%B9%A6%E8%A2%8B/</link>
+      <pubDate>Wed, 29 Jun 2016 00:27:45 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/%E6%8E%89%E4%B9%A6%E8%A2%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>算法</title>
+      <link>https://josephmax.github.io/blog/tags/%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Wed, 29 Jun 2016 00:27:45 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/%E7%AE%97%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算机基础伪</title>
+      <link>https://josephmax.github.io/blog/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E4%BC%AA/</link>
+      <pubDate>Wed, 29 Jun 2016 00:27:45 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E4%BC%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>跨域</title>
+      <link>https://josephmax.github.io/blog/tags/%E8%B7%A8%E5%9F%9F/</link>
+      <pubDate>Thu, 30 Jun 2016 00:19:48 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/%E8%B7%A8%E5%9F%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>随想</title>
+      <link>https://josephmax.github.io/blog/tags/%E9%9A%8F%E6%83%B3/</link>
+      <pubDate>Tue, 28 Jun 2016 17:15:43 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/%E9%9A%8F%E6%83%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>面试</title>
+      <link>https://josephmax.github.io/blog/tags/%E9%9D%A2%E8%AF%95/</link>
+      <pubDate>Wed, 06 Jul 2016 11:39:41 +0000</pubDate>
+      
+      <guid>https://josephmax.github.io/blog/tags/%E9%9D%A2%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

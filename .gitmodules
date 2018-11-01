@@ -1,3 +1,3 @@
 [submodule "themes/canoe"]
 	path = themes/canoe
-	url = git@github.com:josephmax/josephmax.github.io.git
+	url = git@github.com:stkevintan/canoe-blog.git

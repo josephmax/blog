@@ -1,4 +1,4 @@
-baseURL = "https://josephmax.github.io/blog"
+baseURL = "https://josephmax.github.io/blog/"
 languageCode = "zh-cn"
 title = "Joseph Mind Clips"
 metaDataFormat = "yaml"

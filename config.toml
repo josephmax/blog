@@ -30,10 +30,10 @@ publishDir = "docs"
   # date format convert: http://fuckinggodateformat.com/
   dateFormat = "2006年01月2日"
   # 用户头像地址, user avatar's url
-  logo = "/img/avatar.jpeg"
+  logo = "./img/avatar.jpeg"
 
   # 首页横幅的背景链接, home banner's background url.
-  splash_bg = "/img/profile-bg.jpg"
+  splash_bg = "./img/profile-bg.jpg"
 
   # 是否使用一言, if using hitokoto(dynamic moto phase in the home banner)
   hitokoto = true
@@ -59,17 +59,17 @@ publishDir = "docs"
     name = "Home"
     # associated with displaying order.
     weight = 1 
-    url = "/"
+    url = "./"
 
 [[menu.main]]
     name = "Archive"
     weight = 2
-    url = "/archive/"
+    url = "./archive/"
     
 [[menu.main]]
     name = "About"
     weight = 6
-    url = "/about/"
+    url = "./about/"
 
 
 
